@@ -1,0 +1,31 @@
+/* .button {
+    background-color: transparent;
+    color: var(--color-text-primary);
+    border-radius: var(--border-radius);
+    padding: var(--padding-md);
+    outline: none;
+    border: unset;
+    transition: all 0.2s ease-in-out;
+    font-size: 15px;
+  }
+  
+  .button:hover {
+    cursor: pointer;
+    color: var(--color-tertirary);
+    background-color: var(--color-secondary);
+  }
+  
+  .button:active {
+    cursor: pointer;
+    transition: all 0.0s ease-out;
+    color: var(--color-text-primary);
+    background-color: var(--color-tertirary);
+  }
+   */
+.drum-pad {
+  background-color: grey;
+  margin-top: 10px;
+  box-shadow: black 3px 3px 5px;
+  width: 80px;
+  height: 50px;
+}
